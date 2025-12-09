@@ -11,4 +11,5 @@ Anaconda, Pycharm, Python 3.10.19, Pytorch v2.5.1
  - Evaluation
  - VGG19 Model creation
  - Evalutation
+ - Summary
  - Streamlit Web UI implementation
